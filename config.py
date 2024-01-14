@@ -65,7 +65,7 @@ class Config(object):
     TECH_VJ = bool(environ.get('TECH_VJ', False)) # Set False If you want shortlink off else True
     TECH_VJ_URL = environ.get('TECH_VJ_URL', 'midisk.pro') # your shortlink url domain or url without https://
     TECH_VJ_API = environ.get('TECH_VJ_API', 'ee2e50b000e88ab6549ce6ade5313149a9851577') # your url shortner api
-    TECH_VJ_TUTORIAL = os.environ.get("TECH_VJ_TUTORIAL", "https://t.me/How_To_Open_Linkl")
+    TECH_VJ_TUTORIAL = os.environ.get("TECH_VJ_TUTORIAL", "https://t.me/main_channel_bot_update")
 
 
 # Don't Remove Credit Tg - @VJ_Botz
