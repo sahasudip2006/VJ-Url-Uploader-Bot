@@ -40,7 +40,7 @@ class Translation(object):
     TECH_VJ_ABOUT_TEXT = """
 <b>♻️ ᴍʏ ɴᴀᴍᴇ : ᴜʀʟ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ
 
-🌀 ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/main_channel_bot_update">ᴠᴊ ʙᴏᴛᴢ</a>
+🌀 ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/main_channel_bot_update">𝕊𝕌𝔻𝕀ℙ 𝔹𝕆𝕋𝕊</a>
 
 🌺 ʜᴇʀᴏᴋᴜ : <a href="https://heroku.com/">ʜᴇʀᴏᴋᴜ</a>
 
@@ -48,7 +48,7 @@ class Translation(object):
 
 🇵🇲 ғʀᴀᴍᴇᴡᴏʀᴋ : <a href="https://docs.pyrogram.org/">ᴘʏʀᴏɢʀᴀᴍ 2.0.30</a>
 
-👲 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href="https://t.me/SUDIPSAHA06">ᴛᴇᴄʜ ᴠᴊ</a></b>
+👲 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href="https://t.me/SUDIPSAHA06">𝕊𝕦𝕕𝕚𝕡 𝕊𝕒𝕙𝕒</a></b>
 
 """
 
@@ -70,8 +70,8 @@ class Translation(object):
         [[
             InlineKeyboardButton('💝 sᴜʙsᴄʀɪʙᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@Tech_VJ')
         ], [
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/vj_bot_disscussion'),
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/vj_botz')
+            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/+NAo_2MOcuoE4N2Q1'),
+            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/main_channel_bot_update')
         ], [
             InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='home'),
             InlineKeyboardButton('🦊 ᴀʙᴏᴜᴛ', callback_data='about')
@@ -106,7 +106,7 @@ class Translation(object):
     TECH_VJ_SAVED_CUSTOM_THUMB_NAIL = "<b>ᴄᴜꜱᴛᴏᴍ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛʜᴜᴍʙɴᴀɪʟ ꜱᴀᴠᴇᴅ. Tʜɪꜱ ɪᴍᴀɢᴇ ᴡɪʟʟ ʙᴇ ᴜꜱᴇᴅ ɪɴ ᴛʜᴇ ᴠɪᴅᴇᴏ / ғɪʟᴇ.</b>"
     TECH_VJ_DEL_ETED_CUSTOM_THUMB_NAIL = "<b>✅ ᴄᴜꜱᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ ᴄʟᴇᴀʀᴇᴅ ꜱᴜᴄᴄᴇꜱғᴜʟʟʏ.</b>"
     TECH_VJ_CUSTOM_CAPTION_UL_FILE = "<b>{}</b>"
-    TECH_VJ_NO_VOID_FORMAT_FOUND = "<b>ᴇʀʀᴏʀ...\nTᴇᴄʜ VJ ꜱᴀɪᴅ: {}</b>"
+    TECH_VJ_NO_VOID_FORMAT_FOUND = "<b>ᴇʀʀᴏʀ...\n𝕊𝕌𝔻𝕀ℙ ꜱᴀɪᴅ: {}</b>"
     TECH_VJ_REPLY_TO_MEDIA_ALBUM_TO_GEN_THUMB = "<b>ʀᴇᴘʟʏ /generatecustomthumbnail ᴛᴏ ᴀ ᴍᴇᴅɪᴀ ᴀʟʙᴜᴍ, ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴄᴜꜱᴛᴏᴍ ᴛʜᴜᴍʙᴀɪʟ</b>"
     TECH_VJ_ERR_ONLY_TWO_MEDIA_IN_ALBUM = """<b>ᴍᴇᴅɪᴀ ᴀʟʙᴜᴍ ꜱʜᴏᴜʟᴅ ᴄᴏɴᴛᴀɪɴ ᴏɴʟʏ ᴛᴡᴏ ᴘʜᴏᴛᴏꜱ. ᴘʟᴇᴀꜱᴇ ʀᴇ-ꜱᴇɴᴅ ᴛʜᴇ ᴍᴇᴅɪᴀ ᴀʟʙᴜᴍ, ᴀɴᴅ ᴛʜᴇɴ ᴛʀʏ ᴀɢᴀɪɴ, ᴏʀ ꜱᴇɴᴅ ᴏɴʟʏ ᴛᴡᴏ ᴘʜᴏᴛᴏꜱ ɪɴ ᴀɴ ᴀʟʙᴜᴍ.\nʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ /ʀᴇɴᴀᴍᴇ ᴄᴏᴍᴍᴀɴᴅ ᴀғᴛᴇʀ ʀᴇᴄᴇɪᴠɪɴɢ ғɪʟᴇ ᴛᴏ ʀᴇɴᴀᴍᴇ ɪᴛ ᴡɪᴛʜ ᴄᴜꜱᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ ꜱᴜᴘᴘᴏʀᴛ.</b>"""
     TECH_VJ_CANCEL_STR = "<b>ᴘʀᴏᴄᴇꜱꜱ ᴄᴀɴᴄᴇʟʟᴇᴅ</b>"
