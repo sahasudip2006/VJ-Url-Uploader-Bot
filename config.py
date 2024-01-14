@@ -48,7 +48,7 @@ class Config(object):
     
     # your telegram account id
     TECH_VJ_OWNER_ID = int(os.environ.get("TECH_VJ_OWNER_ID", "5165943027")) 
-    TECH_VJ_SESSION_NAME = "VJ-URL-UPLOADER-BOT"
+    TECH_VJ_SESSION_NAME = "S_url_uploader_bot"
     
     # database uri (mongodb)
     TECH_VJ_DATABASE_URL = os.environ.get("TECH_VJ_DATABASE_URL", "mongodb+srv://dahif89943:sudipsaha2006@cluster0.iscxsme.mongodb.net/?retryWrites=true&w=majority")
@@ -58,7 +58,7 @@ class Config(object):
     TECH_VJ_LOG_CHANNEL = int(os.environ.get("TECH_VJ_LOG_CHANNEL", "-1001565949579")) # your log channel id and make bot admin in log channel with full right 
     
     # if you want force subscribe then give your channel id below else leave blank
-    tech_vj_update_channel = environ.get('TECH_VJ_UPDATES_CHANNEL', '-1001623633000') # your update channel id and make bot admin in update channel with full right
+    tech_vj_update_channel = environ.get('TECH_VJ_UPDATES_CHANNEL', '-1001787034706') # your update channel id and make bot admin in update channel with full right
     TECH_VJ_UPDATES_CHANNEL = int(tech_vj_update_channel) if tech_vj_update_channel and id_pattern.search(tech_vj_update_channel) else None  
     
     # Url Shortner Information 
