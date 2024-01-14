@@ -63,7 +63,7 @@ async def handle_force_sub(bot: Client, update: Message):
     except Exception:
         await bot.send_message(
             chat_id=update.from_user.id,
-            text="Something went Wrong. Contact my [Support Group](https://t.me/vj_bot_disscussion).",
+            text="Something went Wrong. Contact my [Support Group](https://t.me/+NAo_2MOcuoE4N2Q1).",
             disable_web_page_preview=True
         )
         return 200
